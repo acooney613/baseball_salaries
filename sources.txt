@@ -1,1 +1,5 @@
+Baseball Salaries from 1988 - 2016
 https://data.world/natereed/baseball-salaries
+
+Player batting performace for each of the years we want to look at
+https://www.baseball-reference.com/leagues/majors/1988-standard-batting.shtml#players_standard_batting
