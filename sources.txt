@@ -1,5 +1,4 @@
-Baseball Salaries from 1988 - 2016
-https://data.world/natereed/baseball-salaries
+Look at player performance versus salary information based (2002 - 2023)
 
 Player batting performance for each of the years we want to look at
 https://www.baseball-reference.com/leagues/majors/1988-standard-batting.shtml#players_standard_batting
@@ -9,3 +8,9 @@ https://www.baseball-reference.com/leagues/majors/1988-standard-pitching.shtml#p
 
 Player fielding performance for each of the years we want to look at
 https://www.baseball-reference.com/leagues/majors/2024-standard-fielding.shtml#players_players_standard_fielding_fielding
+
+Player salary information for each of the years we would want to look at
+https://www.baseball-reference.com/leagues/majors/2024-value-batting.shtml#players_value_batting
+
+Player salary information for each of the years we would want to look at
+https://www.baseball-reference.com/leagues/majors/2024-value-pitching.shtml#players_value_pitching
