@@ -6,3 +6,6 @@ https://www.baseball-reference.com/leagues/majors/1988-standard-batting.shtml#pl
 
 Player pitching performance for each of the years we want to look at
 https://www.baseball-reference.com/leagues/majors/1988-standard-pitching.shtml#players_standard_pitching
+
+Player fielding performance for each of the years we want to look at
+https://www.baseball-reference.com/leagues/majors/2024-standard-fielding.shtml#players_players_standard_fielding_fielding
