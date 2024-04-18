@@ -45,3 +45,11 @@ There are several folders that contain the data gathered, each with code within 
 - **BB - SO:** Walks - Strikeouts
 - **E/Def-Inn:** Errors per Defensive Innings Played
 - **DP/Def-Inn:** Double Plays per Defensive Innings Played
+
+
+### Files
+
+- **[dnn.ipynb](https://github.com/acooney613/baseball_salaries/blob/main/dnn.ipynb):** file containing for neural network
+- **[models_and_pca.ipynb](https://github.com/acooney613/baseball_salaries/blob/main/models_and_pca.ipynb):** file containing all other models 
+- **[best_model](https://github.com/acooney613/baseball_salaries/tree/main/best_model):** folder containing the saved neural network
+- **[shap.ipynb](https://github.com/acooney613/baseball_salaries/blob/main/shap.ipynb):** code to run shap analysis on the best model
