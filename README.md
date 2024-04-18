@@ -53,3 +53,6 @@ There are several folders that contain the data gathered, each with code within 
 - **[models_and_pca.ipynb](https://github.com/acooney613/baseball_salaries/blob/main/models_and_pca.ipynb):** file containing all other models 
 - **[best_model](https://github.com/acooney613/baseball_salaries/tree/main/best_model):** folder containing the saved neural network
 - **[shap.ipynb](https://github.com/acooney613/baseball_salaries/blob/main/shap.ipynb):** code to run shap analysis on the best model
+- **[salary_clean.ipynb](https://github.com/acooney613/baseball_salaries/blob/main/data/salary/salary_clean.ipynb):** code to merge salary data
+- **[field_clean.ipynb](https://github.com/acooney613/baseball_salaries/blob/main/data/field/field_clean.ipynb):** code to merge defensive data
+- **[batter_clean.ipynb](https://github.com/acooney613/baseball_salaries/blob/main/data/batter/batter_clean.ipynb):** code to merge batter data
