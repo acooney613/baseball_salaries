@@ -56,3 +56,4 @@ There are several folders that contain the data gathered, each with code within 
 - **[salary_clean.ipynb](https://github.com/acooney613/baseball_salaries/blob/main/data/salary/salary_clean.ipynb):** code to merge salary data
 - **[field_clean.ipynb](https://github.com/acooney613/baseball_salaries/blob/main/data/field/field_clean.ipynb):** code to merge defensive data
 - **[batter_clean.ipynb](https://github.com/acooney613/baseball_salaries/blob/main/data/batter/batter_clean.ipynb):** code to merge batter data
+- **[feature_engineer_and_merge.py](https://github.com/acooney613/baseball_salaries/blob/main/data/feature_engineer_and_merge.py):** code to merge each of the three datasets and feature engineer to prepare for model fit
