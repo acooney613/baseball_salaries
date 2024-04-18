@@ -1,1 +1,1 @@
-Baseball Salary Predictor (2010 - 2023)
+### Baseball Salary Predictor (2010 - 2023)
