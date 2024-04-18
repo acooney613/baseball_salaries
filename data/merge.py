@@ -30,6 +30,7 @@ stats = batter.drop(['Name', 'Age', 'Tm', 'Lg', 'G', 'Pos Summary'], axis = 1)
 baseball = field.merge(salary, on = ['Name-additional', 'Season'])
 baseball = baseball.merge(stats, on = ['Name-additional', 'Season'])
 
+# feature engineering for data
 baseball = baseball.drop(['Name', 'Age', 'Name-additional'], axis = 1)
 baseball['Salary'] = baseball['Salary'].str.replace('$', '').astype(float)
 
