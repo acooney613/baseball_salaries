@@ -3,9 +3,9 @@
 
 ### Project Overview
 
-This repo contains data and code designed to build and test models to predict an MLB player's salary. There are several key files and folders 
+This repo contains data and code to predict MLB player salary data using machine learning methods such as Neural Networks and Ensemble methods. 
 
+### Data
+Note: The data was sourced from [baseball-reference.com](https://www.baseball-reference.com/)
 
-### Sources
-
-Data was collected from [baseball-reference.com](https://www.baseball-reference.com/)
+There are several folders that contain the data gathered, each with code within to clean and merge the data into the final dataset called baseball.csv found [here](https://github.com/acooney613/baseball_salaries/tree/main/data)
