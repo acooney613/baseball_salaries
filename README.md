@@ -3,7 +3,7 @@
 
 ### Project Overview
 
-This repo contains data and code to predict MLB player salary using machine learning methods such as Neural Networks and Ensemble methods. To form and fit the best model found using this data I implemented feature engineering techniques as well as Bayesian Optimization to tune hyperparameters to discover the optimal fit. The most accurate model was found to be a Deep Neural Network and can be accessed using the best_model folder and the best_model.keras file. 
+This repo contains data and code to predict MLB player salary using machine learning methods such as Neural Networks and Ensemble methods. This repo contains several important files in my data analysis, model tuning, and model model analysis process. The Data folder contains the code to clean and merge the data into the final dataset called "baseball.csv". The models_and_pca.ipynb file is a jupyter notebook containing EDA and ensemble models I fit on the data. The dnn.ipynb file is a jupyter notebook containing the model training and fitting process used in the creation of the optimal model, a DNN. The optimal model is stored in the best_model folder. The shap.ipynb file contains a SHAP analysis of the model to determine key features as I continue to explore this data. 
 
 ### Data
 Note: The data was sourced from [baseball-reference.com](https://www.baseball-reference.com/)
