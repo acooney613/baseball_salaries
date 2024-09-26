@@ -3,7 +3,7 @@
 
 ### Project Overview
 
-This repo contains data and code to predict MLB player salary data using machine learning methods such as Neural Networks and Ensemble methods. 
+This repo contains data and code to predict MLB player salary using machine learning methods such as Neural Networks and Ensemble methods. To form and fit the best model found using this data I implemented feature engineering techniques as well as Bayesian Optimization to tune hyperparameters to discover the optimal fit. The most accurate model was found to be a Deep Neural Network and can be accessed using the best_model folder and the best_model.keras file. 
 
 ### Data
 Note: The data was sourced from [baseball-reference.com](https://www.baseball-reference.com/)
